@@ -14,11 +14,3 @@
 </p>
 
 ---
-
-### 🐍 My Contribution Activity
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/kkaiki/kkaiki/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-  </p>
-
----
